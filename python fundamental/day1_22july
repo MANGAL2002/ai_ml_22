@@ -1,0 +1,6 @@
+
+#user configuration
+git config --global user.name "Ayushi Mangal"
+git config --global user.email "2020pietcsayushi119@poornima.org"
+git add .
+git remote add origin "https://github.com/MANGAL2002/ai_ml_22.git"
