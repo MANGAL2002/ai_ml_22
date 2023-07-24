@@ -1,0 +1,54 @@
+//day-1
+//ptyhon fundamental
+#brackets
+() -function args,expressions,tuple
+{} -dictionary,set
+[] -indexing,subscripting,slicing,list
+<> -NA
+#identifiers
+//it must contail alpha-numeric only
+//special char not allowed except underscore
+//can not starts from number
+#keyboards
+from keyboard import kwlist 
+kwlist
+len(kwlist)
+#operators
+1)arithmetic->  +,-,*,/,%,**(power),//(floor div)
+2)assignment->  =,+=,-==,
+3)relational->  >,<,>=,<=,==,!=
+4)logical->     and,or,not
+5)bitwise->     &,|,~,^(xor),>>(right),<<(left shift)
+6)membership->  in,not in
+7)identify->    is,is not
+#data & types
+#build-in-functions for data types
+#control statement
+#conditional
+#looping
+#comprehensions
+https://ishu214214.github.io/
+
+#user defined functions
+#function parameterization
+#lambda expression
+#generators
+#decorators
+#object oriented programming
+
+#git setup
+git-scm.com
+#create repository-done
+#initialize repo-done
+#user configuration
+git config --global user.name "Ayushi Mangal"
+git config --global user.email "2020pietcsayushi119@poornima.org"
+#remote repository connect
+git remote add origin "https://github.com/MANGAL2002/ai_ml_22.git"
+#daily process
+#save & commit all changes
+git add .
+git commit -m "pehli pehli baar commit kiya hai"
+git commit -m "first commit"
+#push the changes to git hub
+git push origin main
