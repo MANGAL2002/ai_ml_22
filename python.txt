@@ -22,6 +22,30 @@ len(kwlist)
 6)membership->  in,not in
 7)identify->    is,is not
 #data & types
+1)int   10
+2)float   20.0
+3)complex  10+0j
+4)str      'hi' "hi"  '''hi''' inmutable
+5)list     [5,6,'hi',9.3]structured,mutable collection of het data
+6)tuple    (5,6,'hi',9.3)  5,6,'hi',9.3
+           unstructured,inmutable collection of het data
+7)dict {4:8,'a':[9,3,4]}structured,mutable collection of het data
+8)set  {5,7,9,'hi'} unordered collection of unique items
+9)bool  true,false
+10)nonetype    none
+#concept of motability
+it works on only collections
+1.item access
+  -indexing
+  -slicing
+  -sub-scripting
+  -slicing
+2.item insertion
+3.item assignment
+4.item deletion
+a)mutable -1,2,3,4possible
+b)inmutable -1,2possible    3,4-not possible
+#slicing-[begin :end (exclusive):step size]
 #build-in-functions for data types
 #control statement
 #conditional
