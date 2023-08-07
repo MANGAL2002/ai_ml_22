@@ -50,8 +50,7 @@ b)inmutable -1,2possible    3,4-not possible
 #control statement
 #conditional
 #looping
-#comprehensions
-https://ishu214214.github.io/
+#comprehensionsss
 
 #user defined functions
 #function parameterization
@@ -59,7 +58,8 @@ https://ishu214214.github.io/
 #generators
 #decorators
 #object oriented programming
-
+#modules and package
+python -m pip install ..........
 #git setup
 git-scm.com
 #create repository-done
